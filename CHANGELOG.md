@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-15)
+## Unreleased (2026-11-25)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`e131d88`](https://github.com/stdlib-js/stdlib/commit/e131d88ed8ae2885dcd5ea0549bffeb05d8e4f87) - **docs:** update markup _(by Athan Reines)_
 -   [`af03615`](https://github.com/stdlib-js/stdlib/commit/af036154ff8e7a062ac3cc3d941715fc7e59222c) - **docs:** update documentation and tests in `uint64/base/number2words` [(#15474)](https://github.com/stdlib-js/stdlib/pull/15474) _(by Abdul Kaium, Athan Reines)_
 -   [`58556f4`](https://github.com/stdlib-js/stdlib/commit/58556f408eedf1737bc4795fb2734ef4dd2a6b32) - **chore:** clean-up [(#13978)](https://github.com/stdlib-js/stdlib/pull/13978) _(by Philipp Burckhardt)_
